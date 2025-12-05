@@ -3915,7 +3915,7 @@ h6 {
 .section-title__title {
   font-size: 40px;
   line-height: 47px;
-  color: var(--eduact-black);
+  color: #F0B74C;
   margin: 0;
 }
 
@@ -6564,7 +6564,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .service-one {
   position: relative;
   background-color: var(--eduact-white);
-  padding: 120px 0 0;
+  padding: 60px 0 0;
 }
 
 @media (max-width: 767px) {
@@ -7087,7 +7087,7 @@ body.megamenu-popup-active .mobile-nav__content {
 --------------------------------------------------------------*/
 .about-one {
   position: relative;
-  padding: 90px 0 120px;
+  padding: 90px 0 60px;
   background-color: var(--eduact-white);
 }
 
@@ -12500,7 +12500,7 @@ body.megamenu-popup-active .mobile-nav__content {
   background-position: bottom center;
   background-repeat: no-repeat;
   background-size: auto;
-  padding: 120px 0;
+  padding: 60px 0;
   border-bottom: 1px solid var(--eduact-soft4);
 }
 
@@ -13411,7 +13411,7 @@ body.megamenu-popup-active .mobile-nav__content {
   margin: 0;
   font-size: 50px;
   line-height: 1;
-  color: var(--eduact-white);
+  color: #F0B74C;
   text-transform: uppercase;
   margin-bottom: 10px;
 }
@@ -13434,7 +13434,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .page-header__breadcrumb li {
   font-size: 20px;
   line-height: 1;
-  color: var(--eduact-white);
+  color: #F0B74C;
   display: flex;
   align-items: center;
   position: relative;
@@ -13526,7 +13526,7 @@ body.megamenu-popup-active .mobile-nav__content {
   padding-right: 30px;
   outline: none;
   font-size: 16px;
-  color: var(--eduact-text);
+  color: #F0B74C;
   font-family: var(--eduact-font);
   display: block;
   font-weight: 600;
@@ -13536,7 +13536,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .contact-one__input-box textarea {
   font-size: 16px;
   font-weight: 600;
-  color: var(--eduact-text);
+  color: #F0B74C;
   height: 176px;
   width: 100%;
   background-color: var(--eduact-soft5);

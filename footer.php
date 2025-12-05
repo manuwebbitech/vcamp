@@ -14,7 +14,7 @@
             <div class="row">
                 <div class="col-xl-3 col-md-5 wow fadeInUp" data-wow-delay="100ms">
                     <div class="main-footer__about">
-                        <a href="index.html" class="main-footer__logo">
+                        <a href="index.php" class="main-footer__logo">
                             <img src="assets/images/footer-logo.png" alt="eduact" width="213" height="55">
                         </a><!-- /.footer-logo -->
                         <p class="main-footer__about__text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
@@ -30,11 +30,10 @@
                     <div class="main-footer__navmenu main-footer__widget01">
                         <h3 class="main-footer__title">Quick Links</h3>
                         <ul>
-                            <li><a href="course.html">Latest Courses</a></li>
-                            <li><a href="about.html">Mission & Vision</a></li>
-                            <li><a href="services.html">Our Approach</a></li>
-                            <li><a href="team.html">Exclusive Advisors</a></li>
-                            <li><a href="team-become.html">Join a Carrer</a></li>
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="#">Services</a></li>
+                            <li><a href="#">Contact</a></li>
                         </ul><!-- /.list-unstyled -->
                     </div><!-- /.footer-menu -->
                 </div>
@@ -42,12 +41,12 @@
                     <div class="main-footer__navmenu main-footer__widget02">
                         <h3 class="main-footer__title">Explore</h3>
                         <ul>
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="course.html">Upcoming Events</a></li>
-                            <li><a href="blog-grid-right.html">Blog & News</a></li>
-                            <li><a href="faq.html">FAQ Question</a></li>
-                            <li><a href="pricing.html">Testimonial</a></li>
-                            <li><a href="contact.html">Privacy Policy</a></li>
+                            <li><a href="#">Jira Training</a></li>
+                            <li><a href="#">Confluence Training</a></li>
+                            <li><a href="#">Agile & Scrum Basics</a></li>
+                            <li><a href="#">FAQ Question</a></li>
+                            <li><a href="#">Testimonial</a></li>
+                            <li><a href="#">Privacy Policy</a></li>
                         </ul><!-- /.list-unstyled -->
                     </div><!-- /.footer-menu -->
                 </div>
@@ -55,9 +54,9 @@
                     <div class="main-footer__newsletter">
                         <h3 class="main-footer__title">Contact Us</h3>
                         <ul class="main-footer__info-list">
-                            <li><span class="icon-Location"></span>6391 Elgin St. Celina, Delaware 10299</li>
-                            <li><span class="icon-Telephone"></span><a href="tel:3035550105">(303) 555-0105</a></li>
-                            <li><span class="icon-Email"></span><a href="mailto:michael.mitc@example.com">michael.mitc@example.com</a></li>
+                            <li><span class="icon-Location"></span>Coimbatore, Tamil Nadu</li>
+                            <li><span class="icon-Telephone"></span><a href="tel:+919940841991">+91 9940841991</a></li>
+                            <li><span class="icon-Email"></span><a href="mailto:info@vkamptechsolutions.com">info@vkamptechsolutions.com</a></li>
                         </ul>
                         <form class="main-footer__email-box mc-form" data-url="MC_FORM_URL" novalidate="novalidate">
                             <div class="main-footer__email-input-box">
@@ -87,7 +86,7 @@
         <div class="mobile-nav__content">
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="assets/images/logo-light.png" width="183" height="48" alt="eduact" /></a>
+                <a href="index.php" aria-label="logo image"><img src="assets/images/logo-light.png" width="183" height="48" alt="eduact" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>

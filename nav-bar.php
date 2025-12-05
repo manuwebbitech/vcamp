@@ -18,14 +18,14 @@
             <nav class="main-menu">
                 <div class="container">
                     <div class="main-menu__logo">
-                        <a href="index.html">
+                        <a href="index.php">
                             <img src="assets/images/logo.png" width="183" height="auto" alt="Eduact">
                         </a>
                     </div><!-- /.main-menu__logo -->
                     <div class="main-menu__nav">
                         <ul class="main-menu__list">
                             <li class="dropdown megamenu">
-                                <a href="index.html">Home</a>
+                                <a href="index.php">Home</a>
                                 <ul>
                                     <!-- <li>
                                         <section class="home-showcase">
@@ -37,7 +37,7 @@
                                                                 <div class="home-showcase__image">
                                                                     <img src="assets/images/home-showcase/home-showcase-1-1.jpg" alt="eduact">
                                                                     <div class="home-showcase__buttons">
-                                                                        <a href="index.html" class="eduact-btn home-showcase__buttons__item">
+                                                                        <a href="index.php" class="eduact-btn home-showcase__buttons__item">
                                                                             <span class="eduact-btn__curve"></span>
                                                                             Multi Page
                                                                         </a>
