@@ -10,7 +10,7 @@
     <div class="custom-cursor__cursor-two"></div>
 
     <div class="preloader">
-        <div class="preloader__image" style="background-image: url(assets/images/loader.png);"></div>
+        <div class="preloader__image" style="background-image: url(assets/images/preload.png);"></div>
     </div>
     <!-- /.preloader -->
     <div class="page-wrapper">
@@ -24,10 +24,10 @@
                     </div><!-- /.main-menu__logo -->
                     <div class="main-menu__nav">
                         <ul class="main-menu__list">
-                            <li class="dropdown megamenu">
+                            <li class="">
                                 <a href="index.php">Home</a>
-                                <ul>
-                                    <!-- <li>
+                                <!-- <ul>
+                                    <li>
                                         <section class="home-showcase">
                                             <div class="container">
                                                 <div class="home-showcase__inner">
@@ -94,7 +94,7 @@
                                                                 <div class="home-showcase__image">
                                                                     <img src="assets/images/home-showcase/home-showcase-1-4.jpg" alt="eduact">
                                                                     <div class="home-showcase__buttons">
-                                                                        <a href="index-dark.html" class="eduact-btn home-showcase__buttons__item">
+                                                                        <a href="index.php" class="eduact-btn home-showcase__buttons__item">
                                                                             <span class="eduact-btn__curve"></span>
                                                                             View Page
                                                                         </a>
@@ -108,24 +108,15 @@
                                                 </div>
                                             </div>
                                         </section>
-                                    </li> -->
-                                </ul>
+                                    </li>
+                                </ul> -->
                             </li>
                             <li class="dropdown">
                                 <a href="#">Services</a>
-                                <!-- <ul>
-                                    <li><a href="about.html">About</a></li>
-                                    <li><a href="team.html">Our Teacher</a></li>
-                                    <li><a href="team-carousel.html">Teacher Carousel</a></li>
-                                    <li><a href="team-become.html">Become Teacher</a></li>
-                                    <li><a href="team-details.html">Teacher Details</a></li>
-                                    <li><a href="gallery.html">Gallery</a></li>
-                                    <li><a href="gallery-carousel.html">Gallery Carousel</a></li>
-                                    <li><a href="pricing.html">Pricing</a></li>
-                                    <li><a href="faq.html">FAQs</a></li>
-                                    <li><a href="login.html">Login</a></li>
-                                    <li><a href="404.html">404 Error</a></li>
-                                </ul> -->
+                                <ul>
+                                    <li><a href="jira.php">Jira</a></li>
+                                    <li><a href="confluence.php">Confluence</a></li>
+                                </ul>
                             </li>
                             <!-- <li class="dropdown">
                                 <a href="#">Course</a>
@@ -187,24 +178,23 @@
                                     </li>
                                 </ul>
                             </li> -->
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                     </div><!-- /.main-menu__nav -->
                     <div class="main-menu__right">
                         <a href="#" class="main-menu__toggler mobile-nav__toggler">
-                            <i class="fa fa-bars"></i>
-                        </a><!-- /.mobile menu btn -->
+                            <i class="fa fa-bars text-white"></i>
+                        </a>
                         <a href="#" class="main-menu__search search-toggler">
-                            <i class="icon-Search"></i>
-                        </a><!-- /.search btn -->
+                            <!-- <i class="icon-Search"></i> -->
+                        </a>
                         <a href="login.html" class="main-menu__login">
-                            <i class="icon-account-1"></i>
-                        </a><!-- /.login btn -->
-                        <a href="contact.html" class="eduact-btn"><span class="eduact-btn__curve"></span>Get In Touch</a><!-- /.contact btn -->
-                    </div><!-- /.main-menu__right -->
-                </div><!-- /.container -->
+                            <!-- <i class="icon-account-1"></i> -->
+                        </a>
+                        <!-- <a href="contact.php" class="eduact-btn"><span class="eduact-btn__curve"></span>Get In Touch</a> -->
+                    </div>
+                </div>
             </nav>
-            <!-- /.main-menu -->
         </header><!-- /.main-header -->
 
 </body>
